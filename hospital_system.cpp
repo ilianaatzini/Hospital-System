@@ -141,7 +141,6 @@ void hospital_system() {
 }
 
 int main() {
-//freopen("c.in", "rt", stdin);
 	hospital_system();
 	return 0;
 }
